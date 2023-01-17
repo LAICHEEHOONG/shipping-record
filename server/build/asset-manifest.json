@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32775793.css",
+    "main.js": "/static/js/main.a90f7d90.js",
+    "static/media/drunk.webp": "/static/media/drunk.c23bc3fe9dc19236390a.webp",
+    "static/media/happiness.webp": "/static/media/happiness.ee6172701b7f8adae390.webp",
+    "static/media/hope.webp": "/static/media/hope.9927700d4feaae9d33ea.webp",
+    "static/media/good.webp": "/static/media/good.9b2fe38a69e498fb141b.webp",
+    "index.html": "/index.html",
+    "main.32775793.css.map": "/static/css/main.32775793.css.map",
+    "main.a90f7d90.js.map": "/static/js/main.a90f7d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32775793.css",
+    "static/js/main.a90f7d90.js"
+  ]
+}
